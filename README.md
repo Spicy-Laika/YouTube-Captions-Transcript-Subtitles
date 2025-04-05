@@ -1,3 +1,4 @@
+
 # YouTube Captions Transcript Subtitles
 Download &amp; convert captions in various popular formats and translate them to any language
 
@@ -9,6 +10,8 @@ Download all available subtitles for a video instantly, saving time and effort.
 
 3. **Supports Multiple Subtitle Formats 🎬**  
 Our service supports a variety of subtitle formats (e.g., SRT, VTT, XML, JSON), allowing you to download and use subtitles in the format that best suits your needs. 
+
+[Try the API now and get instant results](https://api999.short.gy/xWKYMQ)
 
 ### Response Structure `/get-video-info/{videoId}`
 Paramter "format" can be `xml` or `json`, default is `json`
@@ -165,6 +168,9 @@ array(
 }]
 
 ```
+---
+ [See the API in action – test it instantly here ](https://api999.short.gy/xWKYMQ)
+
 ---
 
 ### **Feel free to write to me with any questions not listed in the documentation! :)**
